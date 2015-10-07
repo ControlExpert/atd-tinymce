@@ -1,0 +1,30 @@
+{
+    "name": "atd-tinymce",
+    "title": "After the Deadline for TinyMCE",
+    "version": "1.0.0",
+    "description": "After the Deadline is an open source software service that checks spelling, style, and grammar.",
+    "author": {
+        "name": "Automattic",
+        "url": "https://github.com/Automattic"
+    },
+    "license": "LGPL",
+    "main": [
+        "src/atd.core.js",
+        "src/editor_plugin.js"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ],
+    "bugs": "https://github.com/ControlExpert/atd-tinymce/issues",
+    "homepage": "https://github.com/ControlExpert/atd-tinymce/"
+    "dependencies": {
+        "jquery": ">=1.11.2"
+    },
+    "keywords": [
+        "spellchecking",
+        "tinymce",
+        "plugin"
+    ]
+}
