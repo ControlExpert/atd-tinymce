@@ -25,8 +25,13 @@ Changes:
 ### Localization
 
 Localization is done using the i18 support of tinyMCE. Separate plugins are available for each language, and potentially, if using themes, also a language plugin within the theme.
-## License
+
+### License
 
 [LGPL](http://www.opensource.org/licenses/lgpl-2.1.php)
 
-This code is a hack on the spellcheck plugin from Moxiecode.  Thanks for the hard work guys.
+### Credits
+
+* This code is a derivate(hack) of the spellcheck plugin from Moxiecode.  Thanks for the hard work guys.
+* Original Author: Raphael Mudge (Automattic)
+* Heavily modified by Daniel Naber for [LanguageTool] (http://www.languagetool.org)
