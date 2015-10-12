@@ -1,7 +1,9 @@
-atd-tinymce
+languagetool-tinymce
 ===========
 
-### LanguageTool AtD-based for TinyMCE
+### LanguageTool for TinyMCE
+
+languagetool-tinymce is a plugin for TinyMCE. It is based on the AtD TinyMCE Plugin.  
 
 [LanguageTool] (https://www.languagetool.org/) is an Open Source proof­reading program for English, French, German, Polish, and more than 20 other languages.
 
